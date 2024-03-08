@@ -1,2 +1,2 @@
-# Crypto_Price
-Check the price of any cryptocurrency from your terminal
+# Crypto_price
+Consulta el precio de cualquier crypto en tu terminal.
